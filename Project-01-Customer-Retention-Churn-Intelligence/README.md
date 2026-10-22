@@ -40,5 +40,4 @@ Recommendations:
 5. Implement targeted retention campaigns for high-risk segments
 
 Dashboard Preview:
-
-
+Customer Retention & Churn Intelligence Platform.jpg
