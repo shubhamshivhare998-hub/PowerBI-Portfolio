@@ -1,6 +1,5 @@
-Power BI Portfolio
+Power BI Portfolio | Shubham Shivhare
 
-Created By: Shubham Shivhare
 About Me: Business Operations & Analytics Professional focused on Business Intelligence, Process Improvement, Data Analytics and Executive Reporting.
 
 Portfolio Projects:
