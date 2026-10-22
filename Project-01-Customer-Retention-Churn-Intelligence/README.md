@@ -38,3 +38,7 @@ Recommendations:
 3. Review Electronic Check payment experience.
 4. Investigate churn among Fiber Optic customers.
 5. Implement targeted retention campaigns for high-risk segments
+
+Dashboard Preview:
+
+
