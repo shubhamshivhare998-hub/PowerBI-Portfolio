@@ -23,8 +23,8 @@ The objective of this project was to create an end-to-end sales intelligence sol
 
 Skills Demonstrated:
 
-1.Power BI
-2.Data Modeling
+1. Power BI
+2. Data Modeling
 3. Star Schema
 4. DAX
 5. CALCULATE
