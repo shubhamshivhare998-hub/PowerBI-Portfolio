@@ -22,7 +22,7 @@ Skills Demonstrated:
 10. Revenue Analytics
 11. Sales Intelligence
 
-Status: Completed
+Status: Completed****
 
 2. Customer Experience & Service Operations Analytics Dashboard
 
