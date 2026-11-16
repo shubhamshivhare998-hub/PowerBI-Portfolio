@@ -23,3 +23,17 @@ Skills Demonstrated:
 11. Sales Intelligence
 
 Status: Completed
+
+2. Customer Experience & Service Operations Analytics Dashboard
+
+Business Problem: Support organizations require visibility into customer satisfaction, SLA compliance, workforce effectiveness, support channel performance, and operational workload distribution.
+
+Skills Demonstrated:
+
+1. Power BI
+2. Data Profiling, data cleaning and Data Modeling
+3. Star Schema modeling
+4. Advance DAX & Time Intelligence Development
+5. KPI & Analytics Matrix
+
+Status: Completed****
